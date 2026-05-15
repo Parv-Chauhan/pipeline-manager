@@ -3,7 +3,9 @@
 A full-stack data pipeline management platform built with Django, React, and AWS-ready architecture.
 
 ## Live Demo
-> Dashboard: http://localhost:5173 | API: http://localhost:8000/api/
+> API (Live): https://pipeline-manager-production-75c9.up.railway.app/api/
+> GitHub: https://github.com/Parv-Chauhan/pipeline-manager
+
 
 ## Tech Stack
 | Layer | Technology |
